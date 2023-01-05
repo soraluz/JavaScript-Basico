@@ -1,5 +1,5 @@
 // Bifurcaciones if...else
-let saldo = 50;
+let saldo = 40;
 let efectivo = 100;
 
 if (efectivo < saldo) {
